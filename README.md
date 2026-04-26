@@ -1,5 +1,7 @@
 # JSON2Struct
 
+> 联系方式（WeChat）：`wujifeng_mr` / Contact (WeChat): `wujifeng_mr`
+
 `JSON2Struct` 是一个 Unreal Engine 插件，用于将 JSON（包含 HTTP 返回）快速生成并映射为 `UStruct`，降低 REST API 接入成本。
 
 > 本仓库文档按“插件独立提交”设计，提交范围仅为 `Plugins/JSON2Struct`。
