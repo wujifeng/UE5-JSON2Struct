@@ -1,0 +1,2 @@
+# Folder	Method	URL	RootType
+GET_v1_forecast	GET	https://api.open-meteo.com/v1/forecast?latitude=22.54&longitude=114.07&current_weather=true	per

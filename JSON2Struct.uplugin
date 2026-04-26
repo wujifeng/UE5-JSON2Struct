@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "JSON2Struct",
+	"Description": "Automated JSON-to-UStruct generator for rapid REST API integration (UE 5.1.1-5.7.4). JSON2StructEditor = editor module (toolbar, panel, generation); JSON2StructRuntime = runtime module (Rest API, Blueprint, generated structs, no UI).",
+	"Category": "Other",
+	"CreatedBy": "CodeWarp_Studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JSON2StructEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "JSON2StructRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
